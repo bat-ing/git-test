@@ -1,6 +1,0 @@
-server:
-  port: 8085
-user:
-  uname: 按是
-  age: 24
-  sex: 男
